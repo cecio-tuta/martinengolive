@@ -1,0 +1,46 @@
+baseURL = "https://www.martinengolive.com/"
+languageCode = "it"
+title = "Martinengo Live"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[permalinks]
+pages = "/:slug/"
+eventi = "/:slug/"
+
+[minify]
+  disableXML = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "HOME"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "EVENTI"
+    url = "/eventi-index"
+    weight = 2
+  [[menu.main]]
+    name = "stARTEr"
+    url = "/starter"
+    weight = 3
+  [[menu.main]]
+    name = "MISSION"
+    url = "/mission"
+    weight = 4
+  [[menu.main]]
+    name = "TEAM"
+    url = "/team"
+    weight = 5
+  [[menu.main]]
+    name = "CONTATTI"
+    url = "/contatti"
+    weight = 6
+  [[menu.main]]
+    name = "APPROFONDIMENTO"
+    url = "/approfondimento"
+    weight = 7
