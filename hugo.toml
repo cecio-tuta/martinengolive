@@ -22,25 +22,25 @@ eventi = "/:slug/"
     weight = 1
   [[menu.main]]
     name = "EVENTI"
-    url = "/eventi-index"
+    url = "/eventi-index/"
     weight = 2
   [[menu.main]]
     name = "stARTEr"
-    url = "/starter"
+    url = "/starter/"
     weight = 3
   [[menu.main]]
     name = "MISSION"
-    url = "/mission"
+    url = "/mission/"
     weight = 4
   [[menu.main]]
     name = "TEAM"
-    url = "/team"
+    url = "/team/"
     weight = 5
   [[menu.main]]
     name = "CONTATTI"
-    url = "/contatti"
+    url = "/contatti/"
     weight = 6
   [[menu.main]]
     name = "APPROFONDIMENTO"
-    url = "/approfondimento"
+    url = "/approfondimento/"
     weight = 7
