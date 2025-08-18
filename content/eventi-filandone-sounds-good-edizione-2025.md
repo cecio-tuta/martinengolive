@@ -65,36 +65,35 @@ location: "Filandone, Martinengo (BG)"
 </style>
 
 <div class="grid-2x2">
-  <div class="box boxgio">
+  <div id="gio" class="box boxgio">
    Giovedì
    <ul>
-    <li><strong>FLAMENCO ALL AROUND</strong> - <a href="#sez01">info</a></li>
+    <li><strong>FLAMENCO ALL AROUND</strong> - <small><a href="#sez01">info</a></small> ↓</li>
    </ul>
- 
   </div>
-  <div class="box boxven">
+  <div id="ven" class="box boxven">
    Venerdì
    <ul>
-    <li><strong>JAH PEOPLE</strong> - <a href="#sez02">info</a></li>
-    <li><strong>NEVEREND BAND</strong> - <a href="#sez03">info</a></li>
-    <li><strong>SMOKING ASS</strong> - <a href="#sez04">info</a></li>
-    <li><strong>THE LAST DREAMER</strong> - <a href="#sez05">info</a></li>
-    <li><strong>ALEX SNIPERS</strong> - <a href="#sez06">info</a></li>
+    <li><strong>JAH PEOPLE</strong> - <small><a href="#sez02">info</a></small> ↓</li>
+    <li><strong>NEVEREND BAND</strong> - <small><a href="#sez03">info</a></small> ↓</li>
+    <li><strong>SMOKING ASS</strong> - <small><a href="#sez04">info</a></small> ↓</li>
+    <li><strong>THE LAST DREAMER</strong> - <small><a href="#sez05">info</a></small> ↓</li>
+    <li><strong>ALEX SNIPERS</strong> - <small><a href="#sez06">info</a></small> ↓</li>
    </ul>
   </div>
-  <div class="box boxsab">
+  <div id="sab" class="box boxsab">
    Sabato
    <ul>
-    <li><strong>EXODUS Tributo a Battisti</strong> - <a href="#sez07">info</a></li>
-    <li><strong>Jim Mannez</strong> - <a href="#sez08">info</a></li>
+    <li><strong>EXODUS Tributo a Battisti</strong> - <small><a href="#sez07">info</a></small> ↓</li>
+    <li><strong>Jim Mannez</strong> - <small><a href="#sez08">info</a></small> ↓</li>
    </ul>
   </div>
-  <div class="box boxdm">
+  <div id="dom" class="box boxdm">
    Domenica
    <ul>
-    <li><strong>RARO</strong> - <a href="#sez09">info</a></li>
-    <li><strong>LETREJOLIE</strong> - <a href="#sez10">info</a></li>
-    <li><strong>GIRO DI VENTO</strong> - <a href="#sez11">info</a></li>
+    <li><strong>RARO</strong> - <small><a href="#sez09">info</a></small> ↓</li>
+    <li><strong>LETREJOLIE</strong> - <small><a href="#sez10">info</a></small> ↓</li>
+    <li><strong>GIRO DI VENTO</strong> - <small><a href="#sez11">info</a></small> ↓</li>
    </ul>
   </div>
 </div>
@@ -164,9 +163,10 @@ location: "Filandone, Martinengo (BG)"
     <div class="box2">
       <div class="text-panel">
         <p>
-Il gruppo, composto da affermati artisti: Carmen Amor (cantaora sivigliana), Eduardo Muñoz (chitarra), Claudio Iavarone e Lara Ribichini (danza), nasce dall’iniziativa di Carmen di diffondere e fare apprezzare il Flamenco nelle sue diverse forme espressive: cante, guitarra y baile.
-Lo spettacolo, attraverso le diverse sfaccettature ed emozioni trasmette: gioia, rabbia, sofferenza, malinconia. Questo carattere caleidoscopico caratterizza i vari momenti della performance, che ha inizio con il cante jondo («magnifico intreccio di suoni, parole ed evocazioni», nelle parole del grande poeta Garc&igrave;a Lorca), seguito dalla stretta interazione tra canto e chitarra, per proseguire con la dinamicit&agrave; della danza, che sfoggia tutto il suo fascino attraverso un intenso dialogo con i musicisti.
-        </p>
+Il gruppo, composto da affermati artisti: Carmen Amor (cantaora sivigliana), Eduardo Muñoz (chitarra), Claudio Iavarone e Lara Ribichini (danza), nasce dall’iniziativa di diffondere e fare apprezzare il Flamenco nelle sue diverse forme espressive: cante, guitarra y baile.
+Lo spettacolo trasmette diverse sfaccettature di emozioni: gioia, rabbia, sofferenza, malinconia. Questo carattere caleidoscopico caratterizza i vari momenti della performance, che ha inizio con il cante jondo («magnifico intreccio di suoni, parole ed evocazioni», nelle parole del grande poeta Garc&igrave;a Lorca), seguito dalla stretta interazione tra canto e chitarra, per proseguire con la dinamicit&agrave; della danza, che sfoggia tutto il suo fascino attraverso un intenso dialogo con i musicisti.
+         <br><br><small>Torna <a href="#gio">su</a> ↑</small> 
+       </p>
       </div>
     </div>
     <!-- (3) video -->
@@ -180,9 +180,7 @@ Lo spettacolo, attraverso le diverse sfaccettature ed emozioni trasmette: gioia,
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 2 ========= -->
 <section id="sez02" class="band-section">
   <h3>Jah People</h3>
@@ -195,6 +193,7 @@ Lo spettacolo, attraverso le diverse sfaccettature ed emozioni trasmette: gioia,
       <div class="text-panel">
         <p>
 Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band propone un vasto repertorio di cover anni 60, 70, 80 in puro stile roots.
+         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
        </p>
       </div>
     </div>
@@ -202,9 +201,7 @@ Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band prop
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 3 ========= -->
 <section id="sez03" class="band-section">
   <h3>Neverend Band</h3>
@@ -214,7 +211,8 @@ Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band prop
     <div class="box2">
       <div class="text-panel">
         <p>
-        Rock ed hard rock anni 80, 90 e 2000 con una line up d'esperienza di recente aggiornamento. 
+        Rock ed hard rock anni 80, 90 e 2000 con una line up d'esperienza di recente aggiornamento.
+         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -222,9 +220,7 @@ Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band prop
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 4 ========= -->
 <section id="sez04" class="band-section">
   <h3>Smoking Ass</h3>
@@ -235,16 +231,16 @@ Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band prop
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>L'hard rock e dintorni interpretati da un leggendario gruppo 100% made in Martinengo.</p>
+        <p>L'hard rock e dintorni interpretati da un leggendario gruppo 100% made in Martinengo.
+         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
+        </p>
       </div>
     </div>
     <div class="box3">
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 5 ========= -->
 <section id="sez05" class="band-section">
   <h3>The Last Dreamer</h3>
@@ -258,6 +254,7 @@ Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band prop
         <p>
 Gruppo metal nato nel 1998 che propone pezzi propri e cover. Attivo con numerosi concerti nella bassa bergamasca per circa una decina d'anni,
 dopo alcuni cambi di formazione, il gruppo si scioglie nel 2008. Il Filandone Sounds Good 2025 &egrave; il concerto della reunion.
+         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -265,9 +262,7 @@ dopo alcuni cambi di formazione, il gruppo si scioglie nel 2008. Il Filandone So
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 6 ========= -->
 <section id="sez06" class="band-section">
   <h3>Alex Snipers</h3>
@@ -279,7 +274,8 @@ dopo alcuni cambi di formazione, il gruppo si scioglie nel 2008. Il Filandone So
     <div class="box2">
       <div class="text-panel">
         <p>
-Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sounds Good il suo personale tributo a Neil Young.         
+Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sounds Good il suo personale tributo a Neil Young.
+         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -293,9 +289,7 @@ Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sou
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 7 ========= -->
 <section id="sez07" class="band-section">
   <h3>Exodus Tributo a Battisti</h3>
@@ -308,6 +302,7 @@ Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sou
       <div class="text-panel">
         <p>
 Tributo a Lucio Battisti in cui in uno show professionale e coinvolgente vengono eseguiti i pi&ugrave; importanti brani del sodalizio Battisti-Mogol.
+         <br><br><small>Torna <a href="#sab">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -321,9 +316,7 @@ Tributo a Lucio Battisti in cui in uno show professionale e coinvolgente vengono
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 8 ========= -->
 <section id="sez08" class="band-section">
   <h3>Jim Mannez</h3>
@@ -337,7 +330,8 @@ Tributo a Lucio Battisti in cui in uno show professionale e coinvolgente vengono
         <p>
 In attivit&agrave; da poco pi&ugrave; di un ventennio con svariate band punk e alternative, ha avviato con il primo suo album
 omonimo, edito da GasteRecords, una carriera solista di stampo cantautorale.
-      </p>
+         <br><br><small>Torna <a href="#sab">su</a> ↑</small> 
+        </p>
       </div>
     </div>
     <div class="box3">
@@ -350,9 +344,7 @@ omonimo, edito da GasteRecords, una carriera solista di stampo cantautorale.
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 9 ========= -->
 <section id="sez09" class="band-section">
   <h3>Raro</h3>
@@ -366,6 +358,7 @@ omonimo, edito da GasteRecords, una carriera solista di stampo cantautorale.
         <p>
 Esordisce nel 2021 e si cimenta con rap, R&B, trap, boom bap, rock, dark R&B, jersey, afrobeat, dance/house con brani in italiano e dialetto
 napoletano che con autentica energia introspettiva mirano a smuovere l'animo di chi ascolta.
+         <br><br><small>Torna <a href="#dom">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -379,9 +372,7 @@ napoletano che con autentica energia introspettiva mirano a smuovere l'animo di 
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 10 ========= -->
 <section id="sez10" class="band-section">
   <h3>LeTreJolie</h3>
@@ -395,6 +386,7 @@ napoletano che con autentica energia introspettiva mirano a smuovere l'animo di 
         <p>
 &Egrave; un trio che debutta dal vivo al Filandone Sounds Good 2025 con cover (inglesi ed italiane) di cui non
 sveliamo il genere musicale e qualche brano inedito rintracciabile sul web.
+         <br><br><small>Torna <a href="#dom">su</a> ↑</small> 
         </p>
       </div>
     </div>
@@ -408,9 +400,7 @@ sveliamo il genere musicale e qualche brano inedito rintracciabile sul web.
     </div>
   </div>
 </section>
-
 <hr>
-
 <!-- ========= Sezione 11 ========= -->
 <section id="sez11" class="band-section">
   <h3>Giro Di Vento</h3>
@@ -424,11 +414,13 @@ sveliamo il genere musicale e qualche brano inedito rintracciabile sul web.
         <p> 
 &Egrave; un trio acustico nato da 3 studenti della stessa scuola di musica, porta sul palco le atmosfere calde del soft rock e del blues dagli anni
 70 ai giorni nostri. Due chitarre e una voce, reinterpretazioni intime e coinvolgenti pensate per chi ama la musica suonata dal cuore con essenzialit&agrave;.
-        </p>
+         <br><br><small>Torna <a href="#dom">su</a> ↑</small> 
+       </p>
       </div>
     </div>
     <div class="box3">
     </div>
   </div>
 </section>
- 
+<br>
+<br>
