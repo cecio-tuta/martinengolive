@@ -3,6 +3,14 @@ title: "Contatti"
 slug: "contatti"
 draft: false
 ---
+<strong> Sintonizzati sulle nostre frequenze!!!</strong>
+<div style="text-align: center;">
+  <img src="/images/contact.webp" alt="sintonizzati!" style="display:block; margin:0 auto;">
+</div>
+Ci trovi su Facebook e su Instagram!
+<br><br><br><br>
+
+
 Vuoi entrare entrare a far parte di <strong>Martinengo Live</strong>?
 <br>
 Siamo sempre alla ricerca di giovani talenti che vogliano condividere un'<strong>esperienza</strong> e portare il proprio <strong>contributo</strong>.
@@ -23,7 +31,7 @@ L'invito &egrave; aperto a <strong>singoli</strong> ed alle <strong>associazioni
 <br><br>
 Se sei un musicista e vuoi esibirti, vai alla pagina dedicata del progetto <a href="/starter/">stARTEr</a>. 
 <br><br>
-Se vuoi contribuire come <strong>sponsor</strong> o con <strong>donazioni</strong>, scrivi a
+Se vuoi contribuire come <strong>sponsor</strong> o con <strong>donazioni</strong>, richiedi informazioni sul nostro programma dedicato, scrivi a
 <a href="mailto:martinengolive@cheoro.com?subject=INFO%20sponsor%20donazioni">
   martinengolive@cheoro.com
 </a>
