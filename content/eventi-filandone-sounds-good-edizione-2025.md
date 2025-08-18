@@ -10,19 +10,19 @@ location: "Filandone, Martinengo (BG)"
 <h2>Programma</h2>
 <ul>
  <li>
-  Giovedì 26, ore 21, <em>Flamenco Night</em>:<br />
+  Giovedì 26 - ore 21 - <em>Flamenco Night</em>:<br />
   Chitarra, voce e danze con <strong>FLAMENCO ALL AROUND</strong>.
  </li>
  <li>
-  Venerdì 27, ore 21, <em>Suoniamo per loro</em>, in collaborazione con il torneo degli amici scomparsi:<br />
+  Venerdì 27 - ore 21 - <em>Suoniamo per loro</em>, in collaborazione con il torneo degli amici scomparsi:<br />
   <strong>JAH PEOPLE</strong>, <strong>NEVEREND BAND</strong>, <strong>SMOKING ASS</strong>, <strong>THE LAST DREAMERS</strong> e <strong>ALEX SNIPERS</strong>.
  </li>
  <li>
-  Sabato 28, ore 21, <em>Omaggio a Lucio Battisti</em>:<br />
+  Sabato 28 - ore 21 - <em>Omaggio a Lucio Battisti</em>:<br />
   Note d'Autore con <strong>EXODUS Tributo a Battisti</strong> e <strong>JIM MANNEZ</strong>.
  </li>
  <li>
-  Domenica 29, ore 19, <em>Sunday Sounds Good</em>:<br />
+  Domenica 29 - ore 19 - <em>Sunday Sounds Good</em>:<br />
   <strong>RARO</strong>, <strong>LETREJOLIE</strong> e <strong>GIRO DI VENTO</strong>.
  </li>
 </ul>
