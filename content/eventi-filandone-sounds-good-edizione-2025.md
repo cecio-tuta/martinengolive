@@ -58,7 +58,8 @@ location: "Filandone, Martinengo (BG)"
 
   .grid-2x2 .box {
     padding: 1rem;
-    background: #f5f5f5;
+    background: transparent;
+    border: 3px solid var(--border);   
     border-radius: 6px;
   }
 </style>
@@ -146,13 +147,16 @@ location: "Filandone, Martinengo (BG)"
     <!-- (2) testo -->
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Flamenco All Around…</p>
+        <p>
+Il gruppo, composto da affermati artisti: Carmen Amor (cantaora sivigliana), Eduardo Muñoz (chitarra), Claudio Iavarone e Lara Ribichini (danza), nasce dall’iniziativa di Carmen di diffondere e fare apprezzare il Flamenco nelle sue diverse forme espressive: cante, guitarra y baile.
+Lo spettacolo, attraverso le diverse sfaccettature ed emozioni trasmette: gioia, rabbia, sofferenza, malinconia. Questo carattere caleidoscopico caratterizza i vari momenti della performance, che ha inizio con il cante jondo («magnifico intreccio di suoni, parole ed evocazioni», nelle parole del grande poeta Garc&igrave;a Lorca), seguito dalla stretta interazione tra canto e chitarra, per proseguire con la dinamicit&agrave; della danza, che sfoggia tutto il suo fascino attraverso un intenso dialogo con i musicisti.
+        </p>
       </div>
     </div>
     <!-- (3) video -->
     <div class="box3">
       <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
+        src="https://www.youtube.com/watch?v=8ikUI_rZ4x8"
         title="Video Flamenco All Around"
         allowfullscreen></iframe>
     </div>
@@ -171,14 +175,12 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Jah People…</p>
+        <p>
+Nascono nel 2010, spinti dalla passione comune per la musica Reggae.La band propone un vasto repertorio di cover anni 60, 70, 80 in puro stile roots.
+       </p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video Jah People"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -190,19 +192,15 @@ location: "Filandone, Martinengo (BG)"
   <h3>Neverend Band</h3>
   <div class="band-grid">
     <div class="box1">
-      <img src="/images/filandone_sounds_good_2025/neverend_band-martinengo_live.webp"
-           alt="neverend band @ martinengo live filandone">
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Neverend Band…</p>
+        <p>
+        Rock ed hard rock anni 80, 90 e 2000 con una line up d'esperienza di recente aggiornamento. 
+        </p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video Neverend Band"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -219,14 +217,10 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Smoking Ass…</p>
+        <p>L'hard rock e dintorni interpretati da un leggendario gruppo 100% made in Martinengo.</p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video Smoking Ass"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -243,14 +237,13 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di The Last Dreamer…</p>
+        <p>
+Gruppo metal nato nel 1998 che propone pezzi propri e cover. Attivo con numerosi concerti nella bassa bergamasca per circa una decina d'anni,
+dopo alcuni cambi di formazione, il gruppo si scioglie nel 2008. Il Filandone Sounds Good 2025 &egrave; il concerto della reunion.
+        </p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video The Last Dreamer"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -267,12 +260,14 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Alex Snipers…</p>
+        <p>
+Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sounds Good il suo personale tributo a Neil Young.         
+        </p>
       </div>
     </div>
     <div class="box3">
       <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
+        src="https://www.youtube.com/watch?v=Rw0YfQgKhPY"
         title="Video Alex Snipers"
         allowfullscreen></iframe>
     </div>
@@ -291,12 +286,14 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Exodus Tributo a Battisti…</p>
+        <p>
+Tributo a Lucio Battisti in cui in uno show professionale e coinvolgente vengono eseguiti i pi&ugrave; importanti brani del sodalizio Battisti-Mogol.
+        </p>
       </div>
     </div>
     <div class="box3">
       <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
+        src="https://www.youtube.com/watch?v=Lww0JJhMJLA"
         title="Video Exodus Tributo a Battisti"
         allowfullscreen></iframe>
     </div>
@@ -315,12 +312,15 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Jim Mannez…</p>
+        <p>
+In attivit&agrave; da poco pi&ugrave; di un ventennio con svariate band punk e alternative, ha avviato con il primo suo album
+omonimo, edito da GasteRecords, una carriera solista di stampo cantautorale.
+      </p>
       </div>
     </div>
     <div class="box3">
       <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
+        src="https://www.youtube.com/watch?v=UKVQNsU3Qyo&list=RDUKVQNsU3Qyo&start_radio=1"
         title="Video Jim Mannez"
         allowfullscreen></iframe>
     </div>
@@ -339,12 +339,15 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Raro…</p>
+        <p>
+Esordisce nel 2021 e si cimenta con rap, R&B, trap, boom bap, rock, dark R&B, jersey, afrobeat, dance/house con brani in italiano e dialetto
+napoletano che con autentica energia introspettiva mirano a smuovere l'animo di chi ascolta.
+        </p>
       </div>
     </div>
     <div class="box3">
       <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
+        src="https://www.youtube.com/watch?v=0KEcAfVCyNs"
         title="Video Raro"
         allowfullscreen></iframe>
     </div>
@@ -363,14 +366,13 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di LeTreJolie…</p>
+        <p>
+&Egrave; un trio che debutta dal vivo al Filandone Sounds Good 2025 con cover (inglesi ed italiane) e qualche brano inedito (in italiano) di cui non
+sveliamo il genere musicale.
+        </p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video LeTreJolie"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -387,52 +389,13 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p>Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-Testo descrittivo di Giro Di Vento…
-
-
-</p>
+        <p> 
+&Egrave; un trio acustico nato da 3 studenti della stessa scuola di musica, porta sul palco le atmosfere calde del soft rock e del blues dagli anni
+70 ai giorni nostri. Due chitarre e una voce, reinterpretazioni intime e coinvolgenti pensate per chi ama la musica suonata dal cuore con essenzialit&agrave;.
+        </p>
       </div>
     </div>
     <div class="box3">
-      <iframe
-        src="https://www.youtube.com/embed/VIDEO_ID"
-        title="Video Giro Di Vento"
-        allowfullscreen></iframe>
     </div>
   </div>
 </section>
