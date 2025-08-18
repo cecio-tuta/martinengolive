@@ -134,8 +134,24 @@ location: "Filandone, Martinengo (BG)"
         "box3";
     }
   }
-</style>
 
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
 <section id="sez01" class="band-section">
   <h3>Flamenco All Around</h3>
   <div class="band-grid">
@@ -155,10 +171,12 @@ Lo spettacolo, attraverso le diverse sfaccettature ed emozioni trasmette: gioia,
     </div>
     <!-- (3) video -->
     <div class="box3">
+     <div class="video-container">
       <iframe
-        src="https://www.youtube.com/watch?v=8ikUI_rZ4x8"
-        title="Video Flamenco All Around"
-        allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/8ikUI_rZ4x8"
+       title="Video Flamenco All Around"
+       allowfullscreen></iframe>
+     </div>
     </div>
   </div>
 </section>
@@ -266,10 +284,12 @@ Alex Snipers interpreta il carattere autentico del rock e porta al Filandone Sou
       </div>
     </div>
     <div class="box3">
+     <div class="video-container">
       <iframe
-        src="https://www.youtube.com/watch?v=Rw0YfQgKhPY"
-        title="Video Alex Snipers"
-        allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/Rw0YfQgKhPY"
+       title="Video Alex Snipers"
+       allowfullscreen></iframe>
+     </div>
     </div>
   </div>
 </section>
@@ -292,10 +312,12 @@ Tributo a Lucio Battisti in cui in uno show professionale e coinvolgente vengono
       </div>
     </div>
     <div class="box3">
+     <div class="video-container">
       <iframe
-        src="https://www.youtube.com/watch?v=Lww0JJhMJLA"
-        title="Video Exodus Tributo a Battisti"
-        allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/Lww0JJhMJLA"
+       title="Video Alex Snipers"
+       allowfullscreen></iframe>
+     </div>
     </div>
   </div>
 </section>
@@ -319,10 +341,12 @@ omonimo, edito da GasteRecords, una carriera solista di stampo cantautorale.
       </div>
     </div>
     <div class="box3">
+     <div class="video-container">
       <iframe
-        src="https://www.youtube.com/watch?v=UKVQNsU3Qyo&list=RDUKVQNsU3Qyo&start_radio=1"
-        title="Video Jim Mannez"
-        allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/UKVQNsU3Qyo?si=EtEb4SS0yx2Oy-8c"
+       title="Video Jim Mannez"
+       allowfullscreen></iframe>
+     </div>     
     </div>
   </div>
 </section>
@@ -345,11 +369,13 @@ napoletano che con autentica energia introspettiva mirano a smuovere l'animo di 
         </p>
       </div>
     </div>
-    <div class="box3">
+    <div class="box3"> 
+     <div class="video-container">
       <iframe
-        src="https://www.youtube.com/watch?v=0KEcAfVCyNs"
-        title="Video Raro"
-        allowfullscreen></iframe>
+       src="https://www.youtube.com/embed/0KEcAfVCyNs"
+       title="Video Raro"
+       allowfullscreen></iframe>
+     </div>       
     </div>
   </div>
 </section>
@@ -367,12 +393,18 @@ napoletano che con autentica energia introspettiva mirano a smuovere l'animo di 
     <div class="box2">
       <div class="text-panel">
         <p>
-&Egrave; un trio che debutta dal vivo al Filandone Sounds Good 2025 con cover (inglesi ed italiane) e qualche brano inedito (in italiano) di cui non
-sveliamo il genere musicale.
+&Egrave; un trio che debutta dal vivo al Filandone Sounds Good 2025 con cover (inglesi ed italiane) di cui non
+sveliamo il genere musicale e qualche brano inedito rintracciabile sul web.
         </p>
       </div>
     </div>
     <div class="box3">
+     <div class="video-container">
+      <iframe
+       src="https://www.youtube.com/embed/5bkZy-FkhBc?si=DLXfOIbr2yK34MWj"
+       title="Video Raro"
+       allowfullscreen></iframe>
+     </div>         
     </div>
   </div>
 </section>
