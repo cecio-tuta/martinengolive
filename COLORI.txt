@@ -1,0 +1,6 @@
+Impostazione Gimp per loghi icone
+
+Esposizione
+Black: -0,1
+Light: 0,4
+OK

@@ -3,6 +3,9 @@ title: "Mission"
 slug: "mission"
 draft: false
 ---
+<div style="text-align: center;">
+  <img src="/images/mission.webp" alt="La nostra missione" style="display:block; margin:0 auto;">
+</div>
 <style>
   .mission-grid {
     display: grid;
@@ -26,6 +29,7 @@ draft: false
     }
   }
 </style>
+<br>
 <p>
     La <strong>Mission</strong> di <strong>Martinengo Live</strong> poggia su tre pilastri portanti.
     I nostri progetti hanno l'obiettivo rinforzare ognuno di questi tre <strong>valori</strong>.
@@ -45,8 +49,6 @@ draft: false
   </div>
 </div>
 <br><br><br><br>
-<p>
-    Vuoi saperne di pi&ugrave;? Leggi l'<a href="/approfondimento/">approfondimento</a>.
-</p>
+
 
 

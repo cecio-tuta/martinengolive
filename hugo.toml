@@ -5,7 +5,6 @@ theme = "PaperMod"
 enableRobotsTXT = true
 
 [permalinks]
-pages = "/:slug/"
 eventi = "/:slug/"
 
 [minify]
@@ -40,7 +39,4 @@ eventi = "/:slug/"
     name = "CONTATTI"
     url = "/contatti/"
     weight = 6
-  [[menu.main]]
-    name = "APPROFONDIMENTO"
-    url = "/approfondimento/"
-    weight = 7
+

@@ -2,10 +2,17 @@
 title: "Martinengo Live"
 draft: false
 ---
-<h2>In evidenza:</h2>
-<ul>
-<li><a href="/eventi-filandone-sounds-good-edizione-2025">Filandone Sounds Good (2025)</a></li>
-</ul>
+<div style="text-align: center;">
+  <strong>EVENTO in evidenza:</strong>
+  <br>
+  <a href="/eventi-filandone-sounds-good-edizione-2025">Filandone Sounds Good (2025)</a>
+  <br>
+  <br>
+  <br>
+  <img src="/images/home.webp" alt="In evidenza" style="display:block; margin:0 auto;">
+</div>
+<br>
+<br>
 <h2> Martinenghesi, musicisti ed amanti della musica </h2>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1rem;">
   <!-- Blocco sinistro: immagine -->

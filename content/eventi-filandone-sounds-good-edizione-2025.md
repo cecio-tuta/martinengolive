@@ -6,23 +6,27 @@ draft: false
 location: "Filandone, Martinengo (BG)"
 ---
 <img src="/images/locandina/Filandone_Sounds_Good_2025_Martinengo_Live.webp" alt="Live Music a Martinengo" style="max-width: 100%; height: auto; border-radius: 8px;">
-<p>26-29 GIUGNO 2025</p>
+<p>26-29 GIUGNO 2025  | Via Allegreni, 37 - Martinengo (BG) | Parcheggio: Via della Casella</p>
+<div style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0;">
+  <a href="/eventi-che-vigilia-natale-2024/"> << <small> evento precedente </small></a>
+  <a href="/eventi-index/"><small>indice eventi</small> >> </a>
+</div>
 <h2>Programma</h2>
 <ul>
  <li>
-  Giovedì 26 - ore 21 - <em>Flamenco Night</em>:<br />
+  Giovedì 26 - ore 21 - <em>Flamenco Night</em><br />
   Chitarra, voce e danze con <strong>FLAMENCO ALL AROUND</strong>.
  </li>
  <li>
-  Venerdì 27 - ore 21 - <em>Suoniamo per loro</em>, in collaborazione con il torneo degli amici scomparsi:<br />
+  Venerdì 27 - ore 21 - <em>Suoniamo per loro</em>, in collaborazione con il torneo degli amici scomparsi<br />
   <strong>JAH PEOPLE</strong>, <strong>NEVEREND BAND</strong>, <strong>SMOKING ASS</strong>, <strong>THE LAST DREAMERS</strong> e <strong>ALEX SNIPERS</strong>.
  </li>
  <li>
-  Sabato 28 - ore 21 - <em>Omaggio a Lucio Battisti</em>:<br />
+  Sabato 28 - ore 21 - <em>Omaggio a Lucio Battisti</em><br />
   Note d'Autore con <strong>EXODUS Tributo a Battisti</strong> e <strong>JIM MANNEZ</strong>.
  </li>
  <li>
-  Domenica 29 - ore 19 - <em>Sunday Sounds Good</em>:<br />
+  Domenica 29 - ore 19 - <em>Sunday Sounds Good</em><br />
   <strong>RARO</strong>, <strong>LETREJOLIE</strong> e <strong>GIRO DI VENTO</strong>.
  </li>
 </ul>
