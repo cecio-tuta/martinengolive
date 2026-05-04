@@ -3,7 +3,14 @@ title: "Martinengo Live"
 draft: false
 ---
 <div style="text-align: center;">
-  <strong>EVENTO in evidenza:</strong>
+  EVENTO in evidenza:
+  <strong>Filandone Sounds Good (2026)</strong>
+  <br>
+  Da giovedì 25 a sabato 27 Giugno!!
+  <br>
+  <br>
+  <br>
+  Edizione precedente
   <br>
   <a href="/eventi-filandone-sounds-good-edizione-2025">Filandone Sounds Good (2025)</a>
   <br>
