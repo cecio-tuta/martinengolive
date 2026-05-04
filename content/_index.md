@@ -4,6 +4,7 @@ draft: false
 ---
 <div style="text-align: center;">
   EVENTO in evidenza:
+  <br>
   <strong>Filandone Sounds Good (2026)</strong>
   <br>
   Da giovedì 25 a sabato 27 Giugno!!
