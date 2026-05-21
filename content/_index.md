@@ -5,7 +5,7 @@ draft: false
 <div style="text-align: center;">
   EVENTO in evidenza:
   <br>
-  <strong>Filandone Sounds Good (2026)</strong>
+  <a href="/eventi-filandone-sounds-good-edizione-2026"><strong>Filandone Sounds Good (2026)</strong></a>
   <br>
   Da giovedì 25 a sabato 27 Giugno!!
   <br>

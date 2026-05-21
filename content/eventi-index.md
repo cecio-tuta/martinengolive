@@ -12,6 +12,8 @@ draft: false
 </div>
 <br><br>
 <ul>
+  <li><a href="/eventi-filandone-sounds-good-edizione-2026">Filandone Sounds Good (2026)</a></li>
+  <li><a href="/eventi-che-vigilia-natale-2025">Che Vigilia! (2025)</a></li>
   <li><a href="/eventi-filandone-sounds-good-edizione-2025">Filandone Sounds Good (2025)</a></li>
   <li><a href="/eventi-che-vigilia-natale-2024">Che Vigilia! (2024)</a></li>
   <li><a href="/eventi-filandone-sounds-good-edizione-2024">Filandone Sounds Good (2024)</a></li>
