@@ -1,0 +1,18 @@
+.header {
+    height: auto !important;
+    min-height: 200px !important;
+    padding: 20px 0 !important;
+}
+
+.logo {
+    height: auto !important;
+}
+
+.logo a {
+    height: auto !important;
+}
+
+.logo a img {
+    height: 160px !important;
+    max-height: none !important;
+}

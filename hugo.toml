@@ -40,3 +40,6 @@ eventi = "/:slug/"
     url = "/contatti/"
     weight = 6
 
+[params.label]
+  icon = "images/martinengolive_logo.webp"
+  iconHeight = 160
