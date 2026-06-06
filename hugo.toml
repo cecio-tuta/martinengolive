@@ -1,5 +1,5 @@
 baseURL = "https://www.martinengolive.com/"
-languageCode = "it"
+locale = "it-IT"
 title = "Martinengo Live"
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -43,3 +43,6 @@ eventi = "/:slug/"
 [params.label]
   icon = "images/martinengolive_logo.webp"
   iconHeight = 160
+  
+[params.author]
+  name = "Martinengo Live"
