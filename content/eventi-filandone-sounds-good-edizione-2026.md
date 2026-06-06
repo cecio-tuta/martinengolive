@@ -227,7 +227,7 @@ TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marches
     <div class="box2">
       <div class="text-panel">
         <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Gli Aymara sono un composto rock alternativo / grunge formato da Eddy (voce e chitarra), Ringhio (batteria) e Cresta (basso). “Il demonio è arrivato primo” è il singolo dell'album omonimo (2020). Vincono il Premio Compilation Rock Targato Italia 2021. Nel 2022 esce il video di “Mezz’ombra”: un incoraggiamento a risalire, che suscita grande interesse tra il pubblico e tra gli addetti ai lavori, segnalato in diverse forme dall’Italia agli USA. Nel 2023 vengono invitati a portare alla luce "Giorno di pioggia", un brano inedito di Pablo Bacchetti (poeta e musicista scomparso prematuramente) e dei BDA (i Bambini dell'Asilo).
          <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
         </p>
       </div>
