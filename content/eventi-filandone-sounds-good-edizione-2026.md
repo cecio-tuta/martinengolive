@@ -210,8 +210,7 @@ TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marches
         <br/>
         <p>
  I This Order sono una band nata nel 2015 a Bergamo. Il progetto integra influenze metal ed elementi di musica elettronica, proponendo un repertorio che alterna brani originali a cover riarrangiate.
- 
-         <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
+          <br><br><small>Torna <a href="#ven">su</a> ↑</small> 
         </p>
       </div>
     </div>
