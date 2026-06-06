@@ -154,7 +154,7 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Gioved&igrave; 25 Giugno </strong>- Let it Boil </p>
+        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil </p>
         <br/>
         <p>
 Michele Dal Lago e Giusi Pesenti sono un duo musicale originario della Bergamasca, attivo nella riproposizione e nell'esplorazione delle radici della musica folk, country, bluegrass e blues nordamericana, intrecciata con la tradizione sociale e popolare italiana.
@@ -180,7 +180,7 @@ Michele Dal Lago e Giusi Pesenti sono un duo musicale originario della Bergamasc
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Gioved&igrave; 25 Giugno </strong>- Let it Boil </p>
+        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil </p>
         <br/>
         <p>
 TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marchesi, con l'intento di affondare i denti nella musica e nei testi di Tom Waits, cercando di attraversare quella soglia che sta in bilico tra il rigore e la follia pura, tra il dissonante e il tradizionale, tra il sacro e il sexy; quartetto composto da Max Marchesi alla voce e chitarra, Marco Pasinetti alla chitarra, Bobo Aiolfi al basso e Marco Sacchitella alla batteria.
@@ -206,7 +206,7 @@ TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marches
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Venerd&igrave; 26 Giugno </strong>- Rock Alternativo </p>
+        <p> <strong>Venerd&igrave; 26 Giugno </strong><br/> Rock Alternativo </p>
         <br/>
         <p>
  I This Order sono una band nata nel 2015 a Bergamo. Il progetto integra influenze metal ed elementi di musica elettronica, proponendo un repertorio che alterna brani originali a cover riarrangiate.
@@ -232,7 +232,7 @@ TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marches
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Venerd&igrave; 26 Giugno </strong>- Rock Alternativo / Grunge </p>
+        <p> <strong>Venerd&igrave; 26 Giugno </strong><br/> Rock Alternativo / Grunge </p>
         <br/>
         <p>
 Gli Aymara sono Eddy (voce e chitarra), Ringhio (batteria) e Cresta (basso). Nel 2020 pubblicano il primo album con il singolo “Il demonio è arrivato primo”. Nle 2021 vincono il Premio Compilation Rock Targato Italia. Nel 2022 esce il video di “Mezz’ombra”: un incoraggiamento a risalire, che suscita grande interesse tra il pubblico e tra gli addetti ai lavori, segnalato in diverse forme dall’Italia agli USA. Nel 2023 vengono invitati a portare alla luce "Giorno di pioggia", un brano inedito di Pablo Bacchetti (poeta e musicista scomparso prematuramente) e dei BDA (i Bambini dell'Asilo).
@@ -258,7 +258,7 @@ Gli Aymara sono Eddy (voce e chitarra), Ringhio (batteria) e Cresta (basso). Nel
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Venerd&igrave; 26 Giugno </strong>- Rock Alternativo </p>
+        <p> <strong>Venerd&igrave; 26 Giugno </strong><br/> Rock Alternativo </p>
         <br/>
         <p>
 Quartetto martinenghese che racconta attraverso brani originali storie di vita e relazioni umane, con un sound che ne riflette le varie sfumature: a volte son baci, a volte son cazzotti.
@@ -283,7 +283,7 @@ Quartetto martinenghese che racconta attraverso brani originali storie di vita e
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Sabato 27 Giugno </strong>- Omaggio a De Andr&egrave; (Opening).</p>
+        <p> <strong>Sabato 27 Giugno </strong><br/> Omaggio a De Andr&egrave; (Opening).</p>
         <br/>
         <p>
 Dopo l’EP d’esordio Arancio (2021) e il disco Sensibile (2025), il cantautore milanese presenta Aranciata Amara (2026). "Volevo fermare quel momento in cui l’energia scende e la stanza si fa più vera. Non è un disco da spiegare: si attraversa piano, come quando resti un attimo fermo per capire cosa ti sta succedendo dentro. L’amaro, alla fine, è la parte che non prova a piacere a nessuno»
@@ -309,7 +309,7 @@ Dopo l’EP d’esordio Arancio (2021) e il disco Sensibile (2025), il cantautor
     </div>
     <div class="box2">
       <div class="text-panel">
-      <p> <strong>Sabato 27 Giugno </strong>- Omaggio a De Andr&egrave;.</p>
+      <p> <strong>Sabato 27 Giugno </strong><br/><br/> Omaggio a De Andr&egrave;.</p>
         <p>
 L'omaggio degli Ottocento è ai valori umani cui De André ha dedicato tutta la sua opera, al genio del cantautore e anche agli arrangiamenti musicali
 di chi lo ha accompagnato, dai primi 45 giri passando per il contributo della PFM fino ad arrivare agli ultimi concerti. 
