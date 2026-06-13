@@ -14,7 +14,7 @@ location: "Filandone, Martinengo (BG)"
 <h2>Programma</h2>
 <ul>
  <li>
-  Giovedì 25 - ore 21 - <em>Let It Boil</em> <br />
+  Giovedì 25 - ore 21 - <em>Let It Boil - Folk Blues</em> <br />
   <strong>Michele Dal Lago &amp; Giusi Pesenti</strong> | <strong>Tom Waits VS Blueside</strong>
  </li>
  <li>
@@ -154,7 +154,7 @@ location: "Filandone, Martinengo (BG)"
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil </p>
+        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil - Folk Blues</p>
         <br/>
         <p>
 Michele Dal Lago e Giusi Pesenti sono un duo musicale originario della Bergamasca, attivo nella riproposizione e nell'esplorazione delle radici della musica folk, country, bluegrass e blues nordamericana, intrecciata con la tradizione sociale e popolare italiana.
@@ -180,7 +180,7 @@ Michele Dal Lago e Giusi Pesenti sono un duo musicale originario della Bergamasc
     </div>
     <div class="box2">
       <div class="text-panel">
-        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil </p>
+        <p> <strong>Gioved&igrave; 25 Giugno </strong><br/> Let it Boil - Folk Blues</p>
         <br/>
         <p>
 TOM WAITS vs BLUESIDE &egrave; un progetto nato nel 2004 per mano di Max Marchesi, con l'intento di affondare i denti nella musica e nei testi di Tom Waits, cercando di attraversare quella soglia che sta in bilico tra il rigore e la follia pura, tra il dissonante e il tradizionale, tra il sacro e il sexy; quartetto composto da Max Marchesi alla voce e chitarra, Marco Pasinetti alla chitarra, Bobo Aiolfi al basso e Marco Sacchitella alla batteria.
