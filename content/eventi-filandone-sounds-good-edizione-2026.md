@@ -4,13 +4,14 @@ slug: "eventi-filandone-sounds-good-edizione-2026"
 date: 2025-06-25
 draft: false
 location: "Filandone, Martinengo (BG)"
+hidemeta: true
 ---
-<img src="/images/locandina/Filandone_Sounds_Good_2026_Martinengo_Live.webp" alt="Live Music a Martinengo" style="max-width: 100%; height: auto; border-radius: 8px;">
-<p>25-27 GIUGNO 2026  | Via Allegreni, 37 - Martinengo (BG) | Parcheggio: Via della Casella</p>
 <div style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0;">
   <a href="/eventi-che-vigilia-natale-2025/"> << <small> evento precedente </small></a>
   <a href="/eventi-index/"><small>indice eventi</small> >> </a>
 </div>
+<img src="/images/locandina/Filandone_Sounds_Good_2026_Martinengo_Live.webp" alt="Live Music a Martinengo" style="max-width: 100%; height: auto; border-radius: 8px;">
+<p>25-27 GIUGNO 2026  | Via Allegreni, 37 - Martinengo (BG) | Parcheggio: Via della Casella</p>
 <h2>Programma</h2>
 <ul>
  <li>
