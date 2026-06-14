@@ -4,6 +4,7 @@ slug: "eventi-che-vigilia-natale-2023"
 date: 2023-12-24T17:00:00+01:00
 draft: false
 location: "Piazza Maggiore, 1 – Centro Storico, Martinengo (BG)"
+hidemeta: true
 ---
 <div style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0;">
   <a href="/eventi-filandone-sounds-good-edizione-2023/" style="display:inline-block; padding:4px 10px; border:2px solid currentColor; border-radius:6px; text-decoration:none; font-weight:bold; font-size:0.85rem;">← Precedente</a>
