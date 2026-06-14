@@ -2,6 +2,7 @@
 title: "stARTEr"
 slug: "starter"
 draft: false
+hidemeta: true
 ---
 <div style="text-align: center;">
   <img src="/images/starter.webp" alt="stARTEr fatti sentire!" style="display:block; margin:0 auto;">

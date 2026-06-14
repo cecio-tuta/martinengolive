@@ -1,14 +1,11 @@
 ---
-title: "Eventi"
+title: "EVENTI"
 slug: "eventi-index"
 draft: false
+hidemeta: true
 ---
 <div style="text-align: center;">
   <img src="/images/eventi-index.webp" alt="Indice Eventi" style="display:block; margin:0 auto;">
-</div>
-<div style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0;">
-  <a href="/eventi-filandone-sounds-good-edizione-2026/"> << <small> ultimo evento </small></a>
-  <a href="/eventi-filandone-sounds-good-edizione-2021/"><small>primo evento</small> >> </a>
 </div>
 <br><br>
 <ul>

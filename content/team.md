@@ -1,7 +1,8 @@
 ---
-title: "Team"
+title: "TEAM"
 slug: "team"
 draft: false
+hidemeta: true
 ---
 <p><strong>Martinengo Live</strong> realizza progetti coerenti con la propria <a href="/mission/">mission</a>, rivolti alla cittadinanza e grazie al contributo della stessa comunit&agrave;.
 Pi&ugrave; specificatamente si rivolge a <strong>4</strong> diverse tipologie di attori che credendo nel valore dei progetti possono decidere di parteciparne alla realizzazione:

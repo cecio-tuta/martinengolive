@@ -1,7 +1,8 @@
 ---
-title: "Mission"
+title: "MISSION"
 slug: "mission"
 draft: false
+hidemeta: true
 ---
 <div style="text-align: center;">
   <img src="/images/mission.webp" alt="La nostra missione" style="display:block; margin:0 auto;">

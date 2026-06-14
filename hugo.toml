@@ -43,3 +43,6 @@ eventi = "/:slug/"
 [params.label]
   icon = "images/martinengolive_logo.webp"
   iconHeight = 160
+  
+  [params]
+  author = "Martinengo Live"
