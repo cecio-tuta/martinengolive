@@ -27,7 +27,7 @@ hidemeta: true
  </li>
 </ul>
 <hr>
-<h2 style="text-align: center;">Food:</h2>
+<h2>Food</h2>
 <p>
 Solo per serata "Tributo a De Andrè", sabato 27  giugno, possibilità di prenotazione tavolo con menù convenzionato: <br />
 <i>Gnocchi al burro e salvia, arrosticini, patatine fritte, pane e coperto: 20 euro </i>(cell. e wa. 328 7448046). <br />
@@ -334,6 +334,7 @@ del rimpianto Don Andrea Gallo.
   </div>
 </section>
 <br>
+<h3>Si ringrazia:</h3>
 <br>
 <a href="https://www.ilcamaione.it/" target="other">
 <img src="/images/filandone_sounds_good_2026/il_camaione.webp" alt="Il camaione logo" style="max-width: 100%; height: auto; border-radius: 8px;">
